@@ -1,12 +1,12 @@
-# Material 原质
+# Civipush 
 
-[Material Theme](https://material.viosey.com)
+[Github](https://github.com/shanfeng094)
 
->Nature, Source
+>性别：男
 
->原之质，物之渊
+>爱折腾
 
-## Contents 目录
+## 技术栈
 
 - [General 概括](#general-概括)
 - [Demo 演示](#demo-演示)
@@ -64,9 +64,3 @@ Open sourced under the GPL v3.0 license.
 
 根据 GPL V3.0 许可证开源。
 
-
-## Render 渲染
-
-![](https://qiniu.viosey.com/img/Material-Phone-Render.png)
-
-![](https://qiniu.viosey.com/img/Materia-overview-tiny.png)
